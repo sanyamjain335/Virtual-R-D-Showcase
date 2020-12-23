@@ -8,7 +8,7 @@ $(window).on('load', function(){
         $( "#loadingDiv" ).remove(); //makes page more lightweight 
     });  
   }
-let requestURL = 'https://cdn.glitch.com/c5c31171-7ad3-4759-8f91-959c929d549a%2Fresearch_centers.json?v=1605788873409';
+let requestURL = 'https://wandering-sour-toy.glitch.me/research_centers.json';
     let request = new XMLHttpRequest();
     request.open('GET', requestURL);
     request.responseType = 'text';
