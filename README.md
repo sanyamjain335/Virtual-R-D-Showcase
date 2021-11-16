@@ -3,6 +3,8 @@ The idea is to develop a WebVR application to showcase the recent Research and D
 
 No environment dependency for given code.
 
+## Watch full demonstration of the project here - `https://www.youtube.com/watch?v=wqZrPLXE2sY`
+
 ## To start the project use the following steps:-
 
 1. Fill up research_centers.json file with research centers along with url of the images associated with perticular center in the specified format:-
